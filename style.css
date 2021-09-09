@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Philosopher&family=Urbanist&display=swap');
+
+*  {box-sizing: border-box;
+}
+
+header {
+    background-color: rgba(105, 90, 205, 0.87);
+    margin-top: 10px;;
+    border-style: solid;
+    border: 20px;
+    border-color: black;
+    border-radius: 20px;
+    
+}
+
+.titulo {
+  color: ghostwhite;
+  font-family: 'Philosopher', sans-serif;
+  font-size: 20pt;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  
+}
+
+body {
+    background-image: url(/img/Porto_Alegre.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+}   
+
+.texto {
+  color: black;
+  width: 1200px;
+  height: 300px;
+  text-align: justify;
+  margin-left: 250px;
+  font-family: 'Urbanist', sans-serif;
+  font-size: 20pt;
+  padding-top: 50px;
+ 
+}
+
+#video {
+  text-align: center;
+}
+
+.lista {
+  width: 1280px;
+  height: 300px;
+  padding: 20px;
+  color:coral;
+  margin-top: 100px;
+  margin-left: 200px;
+  margin-bottom: 100px;
+  font-family: 'Urbanist', sans-serif;
+  font-size: 16pt;
+  background-color: rgb(255, 235, 205, 0.2);
+  border-radius: 20px;
+
+}
+
+.redessociais img {
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  
+}
+
+
+#footer {
+  text-align: center;
+  padding-bottom: 50px;
+}
