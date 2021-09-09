@@ -16,9 +16,9 @@ header {
 .titulo {
   color: ghostwhite;
   font-family: 'Philosopher', sans-serif;
-  font-size: 20pt;
+  font-size: 26pt;
   text-align: center;
-  padding-top: 20px;
+  padding-top: 10px;
   padding-bottom: 10px;
   
 }
@@ -37,7 +37,7 @@ body {
   text-align: justify;
   margin-left: 250px;
   font-family: 'Urbanist', sans-serif;
-  font-size: 20pt;
+  font-size: 16pt;
   padding-top: 50px;
  
 }
