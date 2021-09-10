@@ -4,7 +4,7 @@
 }
 
 header {
-    background-color: rgba(105, 90, 205, 0.87);
+    background-color: rgba(105, 90, 205, 0.7);
     margin-top: 10px;;
     border-style: solid;
     border: 20px;
@@ -27,7 +27,6 @@ body {
     background-image: url(../img/Porto_Alegre.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-color: black;
 }   
 
 .texto {
@@ -35,25 +34,30 @@ body {
   width: 1200px;
   height: 300px;
   text-align: justify;
-  margin-left: 200px;
+  margin-left: auto;
+  margin-right: auto;
   font-family: 'Urbanist', sans-serif;
   font-size: 16pt;
   padding-top: 50px;
  
 }
 
-#video {
-  text-align: center;
+
+iframe {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .lista {
   width: 1280px;
   height: 300px;
   padding: 20px;
-  color:coral;
-  margin-top: 100px;
-  margin-left: 200px;
-  margin-bottom: 100px;
+  color: crimson;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
   font-family: 'Urbanist', sans-serif;
   font-size: 16pt;
   background-color: rgb(255, 235, 205, 0.2);
@@ -73,6 +77,6 @@ body {
   text-align: center;
   padding-bottom: 50px;
   font-family: "Philosopher", sans-serif;
-  font-size: 20pt;
+  font-size: 22pt;
   color: ghostwhite;
 }
